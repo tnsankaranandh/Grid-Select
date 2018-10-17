@@ -1,7 +1,7 @@
 Grid-Select
 ===========
 
-Basic functionality of select box with the set of divs
+Basic functionality of select box with the set of divs and fixed header, so that user can scroll through the data alone providing ease of usability.
 
 ## Features
 
